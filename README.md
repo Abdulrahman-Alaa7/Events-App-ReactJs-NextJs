@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ![Events App](./src/assets/events-app.png)
-
+## Preview
+### [Events App](https://events-app-next.vercel.app/)
 
 ## Getting Started
 
